@@ -2,7 +2,7 @@
 
 ## Project Overview  
 
-This project provides an analysis of the Airbnb market in New York City, one of the world's most-visited destinations. We will explore the data related to Airbnb listings in 2019 by integrating various data formats, including CSV, TSV, and Excel files.  
+This project provides an analysis of the Airbnb market in New York City, one of the world's most-visited destinations. I explore the data related to Airbnb listings in 2019 by integrating various data formats, including CSV, TSV, and Excel files.  
 
 ## Data Sources  
 
